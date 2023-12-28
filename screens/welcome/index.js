@@ -11,7 +11,7 @@ const WelcomeScreen = () => {
             Let's build something amazing together!
           </Text>
         </View>
-        <Text style={styles.footer}>Made with ❤️ by Crowdbotics</Text>
+        <Text style={styles.footer}>!Made with ❤️ by Crowdbotics</Text>
       </ScrollView>
     </SafeAreaView>;
 };
